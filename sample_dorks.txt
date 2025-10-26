@@ -1,0 +1,17 @@
+# Sample Google Dorks for DorkLens
+# Use responsibly and only on authorized targets
+
+filetype:sql "password"
+filetype:env "DB_PASSWORD"
+filetype:log "password" | "username"
+filetype:conf "password" | "passwd"
+intitle:"index of" "backup"
+intitle:"index of" "config"
+intitle:"index of /" "parent directory"
+intitle:"Apache2 Ubuntu Default Page"
+inurl:admin intitle:login
+inurl:wp-admin
+inurl:phpmyadmin
+intext:"sql syntax near" | intext:"syntax error has occurred"
+intext:"Warning: mysql_connect()"
+intext:"Fatal error" "Call to undefined function"

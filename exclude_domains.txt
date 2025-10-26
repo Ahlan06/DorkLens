@@ -1,0 +1,34 @@
+# Domaines à exclure - DorkLens
+# Ajoutez un domaine par ligne pour éviter les faux positifs
+# Les lignes commençant par # sont ignorées
+
+# Forums et communautés
+bugs.mysql.com
+forum.glpi-project.org
+stackoverflow.com
+github.com
+gitlab.com
+
+# Sites de documentation
+w3schools.com
+mozilla.org
+php.net
+python.org
+apache.org
+nginx.org
+
+# Plateformes de partage de code
+pastebin.com
+codepen.io
+jsfiddle.net
+repl.it
+
+# Sites d'apprentissage
+tutorialspoint.com
+geeksforgeeks.org
+codecademy.com
+
+# Autres sites courants générant des faux positifs
+piwigo.org
+wordpress.org
+drupal.org
