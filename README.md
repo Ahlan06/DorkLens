@@ -359,7 +359,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Author**: Ahlan06
+- **Author**: Ahlan Mira
 - **GitHub**: [@Ahlan06](https://github.com/Ahlan06)
 - **Project**: [DorkLens Repository](https://github.com/Ahlan06/DorkLens)
 
